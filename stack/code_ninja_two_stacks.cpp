@@ -6,7 +6,7 @@ class TwoStack {
     int size;
 
 public:
-
+    
     // Initialize TwoStack.
     TwoStack(int s) {
         // Write your code here.
